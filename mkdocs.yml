@@ -37,6 +37,7 @@ theme:
   features:
     - announce.dismiss
     - content.action.edit
+    - content.code.annotate
     - content.code.copy
     - content.tabs.link
     - content.tooltips
@@ -69,6 +70,10 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
   social:
@@ -105,7 +110,11 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -118,6 +127,7 @@ nav:
       - Overview: getting-started/overview.md
   - Guides:
       - Convert files to Markdown: guides/convert-files-to-markdown.md
+      - Feature showcase: guides/feature-showcase.md
   - How-to:
       - Password reset: how-to/password-reset.md
       - VPN access: how-to/vpn-access.md

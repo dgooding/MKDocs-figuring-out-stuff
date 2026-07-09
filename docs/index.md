@@ -60,6 +60,14 @@ hide:
 
     [:octicons-arrow-right-24: Convert files to Markdown](guides/convert-files-to-markdown.md)
 
+-   :material-star-four-points:{ .lg .middle } **Feature showcase**
+
+    ---
+
+    Advanced Material demo — diagrams, tabs, annotations, and more
+
+    [:octicons-arrow-right-24: Open showcase](guides/feature-showcase.md)
+
 </div>
 
 ## Popular articles
@@ -83,6 +91,7 @@ hide:
     **Guides**
 
     - [Convert files to Markdown & build this site](guides/convert-files-to-markdown.md)
+    - [Advanced feature showcase](guides/feature-showcase.md)
 
     **How-to**
 
