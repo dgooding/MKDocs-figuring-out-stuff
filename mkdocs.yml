@@ -1,10 +1,10 @@
-site_name: Contoso Service Desk
-site_description: Searchable IT service desk knowledge base — sample project for learning MkDocs
+site_name: Dan's figuring out how MkDocs works
+site_description: Dan's sample MkDocs project — searchable service desk docs while learning docs-as-code
 site_url: https://dgooding.github.io/my-first-grok-project/
 repo_url: https://github.com/dgooding/my-first-grok-project
 repo_name: dgooding/my-first-grok-project
 edit_uri: edit/master/docs/
-copyright: Sample content for MkDocs training · Contoso is a fictional company
+copyright: Dan's figuring out how MkDocs works · sample Contoso content for practice
 
 theme:
   name: material

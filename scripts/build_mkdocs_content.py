@@ -620,11 +620,11 @@ INDEX = dedent(
       - toc
     ---
 
-    # Contoso Service Desk Knowledge Base
+    # Dan's figuring out how MkDocs works
 
     <p class="hero-lead">
-      Searchable playbooks for agents and employees — passwords, VPN, severity, SLAs, and more.
-      Built with <strong>MkDocs Material</strong> so you can learn docs-as-code.
+      A hands-on playground for learning <strong>MkDocs Material</strong> — searchable sample service desk
+      playbooks (passwords, VPN, severity, SLAs, and more) while docs-as-code clicks into place.
     </p>
 
     <div class="hero-search-hint" markdown>
@@ -712,19 +712,19 @@ INDEX = dedent(
 
     ---
 
-    <p class="footer-note">Sample training content for learning MkDocs · Source Word/PDF files live in <code>sample-data/</code></p>
+    <p class="footer-note">Dan's MkDocs learning lab · Sample Contoso Word/PDF sources live in <code>sample-data/</code></p>
     """
 )
 
 MKDOCS_YML = dedent(
     """\
-    site_name: Contoso Service Desk
-    site_description: Searchable IT service desk knowledge base — sample project for learning MkDocs
+    site_name: Dan's figuring out how MkDocs works
+    site_description: Dan's sample MkDocs project — searchable service desk docs while learning docs-as-code
     # site_url: https://dgooding.github.io/my-first-grok-project/
     repo_url: https://github.com/dgooding/my-first-grok-project
     repo_name: dgooding/my-first-grok-project
     edit_uri: edit/master/docs/
-    copyright: Sample content for MkDocs training · Contoso is a fictional company
+    copyright: Dan's figuring out how MkDocs works · sample Contoso content for practice
 
     theme:
       name: material
@@ -977,7 +977,7 @@ EXTRA_CSS = dedent(
 )
 
 LOGO_SVG = """\
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Contoso Service Desk">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dan's figuring out how MkDocs works">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#4f46e5"/>
@@ -1010,8 +1010,8 @@ MAIN_HTML = dedent(
 
     {% block announce %}
       <aside>
-        <strong>MkDocs training site</strong> — press
-        <kbd>/</kbd> to search all 15 service desk articles.
+        <strong>Dan's figuring out how MkDocs works</strong> — press
+        <kbd>/</kbd> to search all 15 sample articles.
       </aside>
     {% endblock %}
     """

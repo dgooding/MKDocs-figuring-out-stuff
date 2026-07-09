@@ -5,11 +5,11 @@ hide:
   - toc
 ---
 
-# Contoso Service Desk Knowledge Base
+# Dan's figuring out how MkDocs works
 
 <p class="hero-lead">
-  Searchable playbooks for agents and employees — passwords, VPN, severity, SLAs, and more.
-  Built with <strong>MkDocs Material</strong> so you can learn docs-as-code.
+  A hands-on playground for learning <strong>MkDocs Material</strong> — searchable sample service desk
+  playbooks (passwords, VPN, severity, SLAs, and more) while docs-as-code clicks into place.
 </p>
 
 <div class="hero-search-hint" markdown>
@@ -97,4 +97,4 @@ hide:
 
 ---
 
-<p class="footer-note">Sample training content for learning MkDocs · Source Word/PDF files live in <code>sample-data/</code></p>
+<p class="footer-note">Dan's MkDocs learning lab · Sample Contoso Word/PDF sources live in <code>sample-data/</code></p>
