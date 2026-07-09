@@ -52,13 +52,13 @@ hide:
 
     [:octicons-arrow-right-24: Escalation matrix](reference/escalation-matrix.md)
 
--   :material-star-four-points:{ .lg .middle } **Advanced showcase**
+-   :material-file-document-multiple:{ .lg .middle } **Build guide**
 
     ---
 
-    Live gallery of Material features — diagrams, tabs, dashboards, and more
+    Convert a whole file library to Markdown and rebuild this site
 
-    [:octicons-arrow-right-24: Open showcase](showcase/advanced-features.md)
+    [:octicons-arrow-right-24: Convert files to Markdown](guides/convert-files-to-markdown.md)
 
 </div>
 
@@ -80,9 +80,9 @@ hide:
 
     - [Service Desk Overview](getting-started/overview.md)
 
-    **Showcase**
+    **Guides**
 
-    - [Advanced Material features](showcase/advanced-features.md)
+    - [Convert files to Markdown & build this site](guides/convert-files-to-markdown.md)
 
     **How-to**
 
