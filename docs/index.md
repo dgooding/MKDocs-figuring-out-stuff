@@ -5,15 +5,15 @@ hide:
   - toc
 ---
 
-# Dan's figuring out how MkDocs works
+# Dan's Service Desk Knowledge Base
 
 <p class="hero-lead">
-  A hands-on playground for learning <strong>MkDocs Material</strong> — searchable sample service desk
-  playbooks (passwords, VPN, severity, SLAs, and more) while docs-as-code clicks into place.
+  Searchable IT service documentation for agents and employees — procedures, policies,
+  and reference material for day-to-day support operations.
 </p>
 
 <div class="hero-search-hint" markdown>
-:material-magnify: Press :material-slash: or use the search bar above — try **VPN**, **password**, or **Sev 1**.
+:material-magnify: Press :material-slash: or use the search bar — try **VPN**, **password**, or **Sev 1**.
 </div>
 
 ## Browse by category
@@ -48,7 +48,7 @@ hide:
 
     ---
 
-    Escalation matrix, security, and authoring
+    Escalation matrix, security, and authoring standards
 
     [:octicons-arrow-right-24: Escalation matrix](reference/escalation-matrix.md)
 
@@ -65,9 +65,9 @@ hide:
 | Onboarding | [New hire IT checklist](how-to/new-hire-checklist.md) |
 | Email | [Email troubleshooting](how-to/email-troubleshooting.md) |
 
-## Site map (all 15 articles)
+## Full catalog
 
-??? abstract "Full article list"
+??? abstract "All articles"
     **Getting started**
 
     - [Service Desk Overview](getting-started/overview.md)
@@ -94,7 +94,3 @@ hide:
     - [Escalation Matrix](reference/escalation-matrix.md)
     - [KB Authoring](reference/kb-authoring.md)
     - [Security Incident](reference/security-incident.md)
-
----
-
-<p class="footer-note">Dan's MkDocs learning lab · Sample Contoso Word/PDF sources live in <code>sample-data/</code></p>

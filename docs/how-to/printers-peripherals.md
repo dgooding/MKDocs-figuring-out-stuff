@@ -26,6 +26,3 @@ Corporate networked printers, standard USB headsets, webcams, and docking statio
 ## Docking and monitors
 
 Update dock firmware via Company Portal. Try a different USB‑C/Thunderbolt cable before replacing hardware.
-
-!!! tip "MkDocs tip"
-    You could later split this into `printers.md` and `docks-monitors.md` linked from a peripherals index.

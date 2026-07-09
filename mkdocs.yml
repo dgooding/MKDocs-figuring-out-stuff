@@ -1,10 +1,10 @@
-site_name: Dan's figuring out how MkDocs works
-site_description: Dan's sample MkDocs project — searchable service desk docs while learning docs-as-code
+site_name: Dan's Service Desk Knowledge Base
+site_description: IT service desk knowledge base — procedures, policies, and reference documentation
 site_url: https://dgooding.github.io/my-first-grok-project/
 repo_url: https://github.com/dgooding/my-first-grok-project
 repo_name: dgooding/my-first-grok-project
 edit_uri: edit/master/docs/
-copyright: Dan's figuring out how MkDocs works · sample Contoso content for practice
+copyright: Dan's Service Desk Knowledge Base
 
 theme:
   name: material

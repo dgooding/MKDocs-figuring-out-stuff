@@ -21,7 +21,7 @@ Escalate when the SLA is at risk, the issue exceeds Tier 1 skills, or a major in
 | Tier 3 | Engineering / vendor | Code defects, infrastructure faults |
 | Major Incident | Duty manager | Sev 1 or widespread Sev 2 |
 
-## Contacts (sample)
+## Contacts
 
 - **Duty manager on-call** — PagerDuty schedule `IT-Duty`
 - **Security CSIRT** — security@contoso.example

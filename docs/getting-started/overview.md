@@ -8,8 +8,8 @@ tags:
 
 # Service Desk Overview
 
-!!! tip "Welcome"
-    This is your single front door for IT help — incidents, requests, and how-to guidance.
+!!! tip "Start here"
+    Single front door for IT help — incidents, requests, and how-to guidance.
 
 Contoso IT Service Desk is the **single point of contact** for technology issues and service requests. Work is tracked in tickets so nothing falls through the cracks.
 

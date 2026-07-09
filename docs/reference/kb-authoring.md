@@ -1,20 +1,19 @@
 ---
 title: Knowledge Base Authoring
-description: How to write articles that work well in MkDocs
+description: Standards for writing clear, searchable knowledge base articles
 tags:
   - reference
   - documentation
-  - mkdocs
 ---
 
 # Knowledge Base Authoring Guidelines
 
 !!! info "STD-KB-004 · v1.0"
-    Consistent structure makes search and navigation delightful.
+    Consistent structure improves search, navigation, and handoffs between agents.
 
 ## Why structure matters
 
-MkDocs shines when articles use clear titles, short procedures, and consistent headings — exactly what you see across this sample site.
+Articles with clear titles, short procedures, and consistent headings are easier to find and faster to follow under pressure.
 
 ## Article template
 
@@ -29,9 +28,11 @@ MkDocs shines when articles use clear titles, short procedures, and consistent h
 
 - Active voice, second person (*you*)
 - Screenshots only when the UI is non-obvious
-- Risk callouts with admonitions (`!!! warning`, `!!! danger`)
+- Call out risk with warning or danger notes
 - Review quarterly or after major product changes
 
-## MkDocs learning tip
+## Document structure
 
-Map each source heading to `##` / `###`, turn bullets into Markdown lists, and place pages under topic folders like `how-to/` and `policies/`.
+- Use clear section headings for every major topic
+- Prefer numbered steps for procedures and bullets for options
+- Group content by audience need: how-to, policy, or reference
