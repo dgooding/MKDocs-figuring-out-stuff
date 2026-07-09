@@ -1,8 +1,8 @@
 site_name: Dan's Service Desk Knowledge Base
 site_description: IT service desk knowledge base — procedures, policies, and reference documentation
-site_url: https://dgooding.github.io/my-first-grok-project/
-repo_url: https://github.com/dgooding/my-first-grok-project
-repo_name: dgooding/my-first-grok-project
+site_url: https://dgooding.github.io/MKDocs-figuring-out-stuff/
+repo_url: https://github.com/dgooding/MKDocs-figuring-out-stuff
+repo_name: dgooding/MKDocs-figuring-out-stuff
 edit_uri: edit/master/docs/
 copyright: Dan's Service Desk Knowledge Base
 
@@ -73,7 +73,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/dgooding/my-first-grok-project
+      link: https://github.com/dgooding/MKDocs-figuring-out-stuff
       name: Repository
   generator: false
   tags: {}
