@@ -12,10 +12,6 @@ hide:
   and reference material for day-to-day support operations.
 </p>
 
-<div class="hero-search-hint" markdown>
-:material-magnify: Press :material-slash: or use the search bar — try **VPN**, **password**, or **Sev 1**.
-</div>
-
 ## Browse by category
 
 <div class="grid cards" markdown>
