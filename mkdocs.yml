@@ -109,6 +109,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
+  - pymdownx.progressbar
   - pymdownx.smartsymbols
   - pymdownx.superfences:
       custom_fences:
@@ -125,9 +126,8 @@ nav:
   - Home: index.md
   - Getting started:
       - Overview: getting-started/overview.md
-  - Guides:
-      - Convert files to Markdown: guides/convert-files-to-markdown.md
-      - Feature showcase: guides/feature-showcase.md
+  - Showcase:
+      - Advanced features: showcase/advanced-features.md
   - How-to:
       - Password reset: how-to/password-reset.md
       - VPN access: how-to/vpn-access.md
