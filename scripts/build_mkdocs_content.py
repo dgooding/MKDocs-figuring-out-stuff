@@ -720,9 +720,9 @@ MKDOCS_YML = dedent(
     """\
     site_name: Dan's figuring out how MkDocs works
     site_description: Dan's sample MkDocs project — searchable service desk docs while learning docs-as-code
-    # site_url: https://dgooding.github.io/my-first-grok-project/
-    repo_url: https://github.com/dgooding/my-first-grok-project
-    repo_name: dgooding/my-first-grok-project
+    # site_url: https://dgooding.github.io/MKDocs-figuring-out-stuff/
+    repo_url: https://github.com/dgooding/MKDocs-figuring-out-stuff
+    repo_name: dgooding/MKDocs-figuring-out-stuff
     edit_uri: edit/master/docs/
     copyright: Dan's figuring out how MkDocs works · sample Contoso content for practice
 
@@ -793,7 +793,7 @@ MKDOCS_YML = dedent(
     extra:
       social:
         - icon: fontawesome/brands/github
-          link: https://github.com/dgooding/my-first-grok-project
+          link: https://github.com/dgooding/MKDocs-figuring-out-stuff
           name: Repository
       generator: false
       tags: {}
